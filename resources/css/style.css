@@ -1,7 +1,31 @@
+body {
+  background-color: Black;
+    font-family: Verdana;
+    text-align: center;
+    color: white;
+}
+
 h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: Gray;
+}
+
+.link a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.excursion {
+  text-align: right;
+  color: Gray;
 }
